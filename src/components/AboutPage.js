@@ -5,6 +5,7 @@ export default class AboutPage extends React.Component {
     return (
       <div>
         <h1> This is about page</h1>
+        <p>This page uses React</p>
       </div>
     );
   }
